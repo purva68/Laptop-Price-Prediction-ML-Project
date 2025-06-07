@@ -1,5 +1,6 @@
 # Laptop-Price-Prediction-ML-Project
 This project focuses on developing machine learning model to predict laptop prices accurately for SmartTech Co.
+
 🚀 **Objectives:**
 - Accurately predict laptop prices based on technical specifications.
 - Understand the impact of different features (brand, RAM, processor, etc.) on pricing.
